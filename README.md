@@ -1,13 +1,13 @@
 https://surpun.github.io/1.Tribute-Page/
 
-# Heading -------------------------------------------------------->
+# Heading ------------------------------------------------------>
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
 
-# Font-Style -------------------------------------------------------->
+# Font-Style --------------------------------------------------->
 *This text* is italic
 
 _This text_ is italic
@@ -20,13 +20,13 @@ __This text__ is strong
 <!-- Strikethrough -->
 ~~This text~~ is strikethrough
 
-# Horizontal Rule -------------------------------------------------------->
+# Horizontal Rule ---------------------------------------------->
 
 ---
 ___
 
 
-# Blockquote -------------------------------------------------------->
+# Blockquote -------------------------------------------------->
 > This is a quote
 
 <!-- Links -->
@@ -35,7 +35,7 @@ ___
 
 [MarkDown Crash Course Title](https://www.youtube.com/watch?v=HUBNt18RFbo "Markdown Crash Course")
 
-# UL / OL -------------------------------------------------------->
+# UL / OL ----------------------------------------------------->
 * Item 1
 * Item 2
   * Nested Item 1
@@ -47,16 +47,16 @@ ___
     1. Nested Item 1
     2. Nested Item 2
 
-# Inline Code Block -------------------------------------------------------->
+# Inline Code Block ------------------------------------------->
 `<p> This is a paragraph </p>`
 
-# Image -------------------------------------------------------->
+# Image ------------------------------------------------------->
 ![FAC Logo](https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1586878058003-O6HMO8IHL96DVFDH5R14/Training+Company+Logos+%2823%29.png)
 
 <!-- Github Markdown -->
 
 <!-- Code Blocks -->
-# Code Blocks -------------------------------------------------------->
+# Code Blocks ------------------------------------------------->
 ```bash
   npm install
   
@@ -74,13 +74,13 @@ ___
     return num1 + num2
 ```
 
-# Table -------------------------------------------------------->
+# Table ------------------------------------------------------->
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
-# Task Lists -------------------------------------------------------->
+# Task Lists -------------------------------------------------->
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
