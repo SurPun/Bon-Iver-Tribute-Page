@@ -7,7 +7,7 @@ https://surpun.github.io/1.Tribute-Page/
 ##### Heading 5
 ###### Heading 6
 
-# Font-Style --------------------------------------------------->
+# Font-Style ---------------------------------------------------->
 *This text* is italic
 
 _This text_ is italic
