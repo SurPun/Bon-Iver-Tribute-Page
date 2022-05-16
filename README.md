@@ -40,6 +40,11 @@ ___
   * Nested Item 1
   * Nested Item 2
 
+- Item 1
+- Item 2
+  - Nested Item 1
+  - Nested Item 2
+
 <!-- Ordered list -->
 1. Item 1
 2. Item 2
