@@ -1,6 +1,6 @@
 [Live Page](https://surpun.github.io/1.Tribute-Page/)
 
-# Markdown
+# Markdown Practice
 ## Heading 2
 ### Heading 3
 #### Heading 4
